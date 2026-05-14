@@ -33,3 +33,10 @@ Also we wants to minimize microwave cavity leakage so we set $\kappa_b$ it to $0
 
 ##  Conclusion
 So this tool helps finding optimal $\kappa_a$ for fixed $\kappa_b$ and $G$, the next steps are to also find the best fit for those two parameters given the available constraints.
+
+## Bibliography
+1. Aspelmeyer, M., Kippenberg, T. J., & Marquardt, F. (2014). Cavity optomechanics. Reviews of Modern Physics, 86(4), 1391.
+
+2. Andrews, R. W., Peterson, R. W., Purdy, T. P., Cicak, K., Simmonds, R. W., Regal, C. A., & Lehnert, K. W. (2014). Bidirectional and efficient conversion between microwave and optical light. Nature Physics, 10(4), 321-326.
+   
+3. Qiu, L., Huang, G., et al. (2022). Dissipative Quantum Feedback in Measurements Using a Parametrically Coupled Microcavity. PRX Quantum, 3(2), 020309.
